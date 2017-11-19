@@ -16,13 +16,11 @@
 - project: Cerebello-Thalamo-Cortical Resting State Connectivity Biomarkers in Patients with Movement Disorder.
   role: Research Fellow
   duration: July 2016 &mdash; September 2017
-  # url: "#"
   description: Administering TMS, rTMS, on recruit movement disorder patients and analysing recorded fMRI-EEG Neuroimaging data on them
 
 
-  #Springfield Donut Eater's User Group
-  - project: Can cortical excitabiltiy .
-    role: Research Fellow
-    duration: July 2016 &mdash; September 2017
-    # url: "#"
-    description: Administering TMS, rTMS, on recruit movement disorder patients and analysing recorded fMRI-EEG Neuroimaging data on them
+#   #Springfield Donut Eater's User Group
+# - project: Can cortical excitabiltiy .
+#   role: Research Fellow
+#   duration: July 2016 &mdash; September 2017
+#   description: Administering TMS, rTMS, on recruit movement disorder patients and analysing recorded fMRI-EEG Neuroimaging data on them
