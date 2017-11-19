@@ -1,12 +1,18 @@
 # Skills
 # Neuroimaging
 - skill: Neuroimaging analysis
-  description: Analysing and processing fmri, DTI and structural MRI
+  description: Analysing and processing
+               fMRI,
+               DTI,
+               Structural MRI
 
 # Programming
 - skill: Programming
-  description: Python , shell scripting, Matlab, R.
+  description: Python,
+               BASH shell scripting,
+               Matlab,
+               R.
 
 # Doctor
 - skill: Physician
-  description: Diagnose and treating common Neurological and Psychiatric disorders
+  description: Diagnose and treating common Neuro and Psychiatric disorders

@@ -5,13 +5,24 @@
 - project: Gray and white matter correlates of REM Sleep Behaviour Disorder and psychosis in Parkinson’s Disease.
   role: Senior Research Fellow
   duration: Sep 2015 &mdash; June 2016
-  # url: "#"
   description: Using Neuroimaging comparative evaluation of the structural alterations, if any, of the white and gray matter in the different supra-and infra-tentorial structures
-   in patients of Parkinson’s disease (i) with REM Sleep Behaviour Disorder (RBD) and (ii) with psychosis with or without RBD, compared to PD patients without RBD or psychosis and healthy age matched subjects.
+   in patients of Parkinson’s disease
 
-#Springfield Donut Eater's User Group
+   (i) with REM Sleep Behaviour Disorder (RBD) and
+
+   (ii) with psychosis with or without RBD, compared to PD patients without RBD or psychosis and healthy age matched subjects.
+
+# skyra lab
 - project: Cerebello-Thalamo-Cortical Resting State Connectivity Biomarkers in Patients with Movement Disorder.
   role: Research Fellow
   duration: July 2016 &mdash; September 2017
   # url: "#"
   description: Administering TMS, rTMS, on recruit movement disorder patients and analysing recorded fMRI-EEG Neuroimaging data on them
+
+
+  #Springfield Donut Eater's User Group
+  - project: Can cortical excitabiltiy .
+    role: Research Fellow
+    duration: July 2016 &mdash; September 2017
+    # url: "#"
+    description: Administering TMS, rTMS, on recruit movement disorder patients and analysing recorded fMRI-EEG Neuroimaging data on them
